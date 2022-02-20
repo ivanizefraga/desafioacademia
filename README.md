@@ -12,9 +12,11 @@ Recursos:
 - Tecnologias de apoio: Jupyter Notebook, Google Colab
 
 Para visualizar o código com a solução (incluindo testes unitários), clique no link abaixo:
+
 https://github.com/ivanizefraga/desafioacademia/blob/main/Questao1.ipynb
 
 Para executar este código, clique no link abaixo:
+
 https://colab.research.google.com/github/ivanizefraga/desafioacademia/blob/main/Questao1.ipynb
 
 ---
@@ -32,9 +34,11 @@ Recursos:
 - Tecnologias de apoio: Jupyter Notebook, Google Colab
 
 Para visualizar o código com a solução (incluindo testes unitários), clique no link abaixo:
+
 https://github.com/ivanizefraga/desafioacademia/blob/main/Questao2.ipynb
 
 Para executar este código, clique no link abaixo:
+
 https://colab.research.google.com/github/ivanizefraga/desafioacademia/blob/main/Questao2.ipynb
 
 ---
@@ -47,9 +51,11 @@ Recursos:
 - Tecnologias de apoio: Jupyter Notebook, Google Colab
 
 Para visualizar o código com a solução (incluindo testes unitários), clique no link abaixo:
+
 https://github.com/ivanizefraga/desafioacademia/blob/main/Questao3.ipynb
 
 Para executar este código, clique no link abaixo:
+
 https://colab.research.google.com/github/ivanizefraga/desafioacademia/blob/main/Questao3.ipynb
 
 
